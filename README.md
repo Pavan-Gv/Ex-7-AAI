@@ -1,5 +1,5 @@
 <H4>NAME: G Venkata Pavan Kumar.</H4>
-<H4>REGISTER NO:212221240013.</H4>
+<H4>REGISTER NO: 212221240013.</H4>
 <H3>EX. NO.7</H3>
 <H3>DATE: </H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
